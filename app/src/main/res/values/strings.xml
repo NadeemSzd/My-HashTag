@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">MyHashTag</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+
+    <string name="action_share">Share</string>
+    <string name="search">Search</string>
+    <string name="Settings">Settings</string>
+    <string name="Bluetooth">Settings</string>
+    <string name="CancelOrder">Cancel Order</string>
+
+    <string name="nav_open_drawer">Open Navigation</string>
+    <string name="nav_close_drawer">Close Navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_fragment_title">Popular</string>
+    <string name="pizza_fragment_title">Caption </string>
+    <string name="pasta_fragment_title">Trend </string>
+    <string name="store_fragment_title">Store </string>
+
+
+    <string-array name="Pizza_list">
+        <item>Lahori_Pizza</item>
+        <item>Kasuri_Pizza</item>
+        <item>Karachi_Pizza</item>
+    </string-array>
+
+
+    <string-array name="Pasta_list">
+        <item>Kasuri_Pasta</item>
+        <item>Lahori_Pasta</item>
+        <item>Karachi_Pasta</item>
+        <item>Multani_Pasta</item>
+    </string-array>
+
+
+    <string-array name="Store_list">
+        <item>Kasur</item>
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Multan</item>
+        <item>Peshawar</item>
+    </string-array>
+
+
+    <string name="company_name">Bits and Pizzas</string>
+    <string name="restaurant_image">Restaurant image</string>
+
+
+    <string name="home_text">
+        Since we opened our doors in 2017, Bits and Pizzas
+        has built its reputation as one of America’s best Italian-Digital
+        restaurants. Some people believe eating out is about being with your
+        friends and family. We believe that good food is best enjoyed while
+        staring at your phone.
+    </string>
+
+
+</resources>

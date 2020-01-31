@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#770808 </color>
+    <color name="colorPrimaryDark">#540707 </color>
+    <color name="colorAccent">#A30B40</color>
+    <color name="custom_color">#F5D706</color>
+    <color name="popUp_BG">#241D1D</color>
+
+    <color name="light_redishColor">#963232</color>
+    <color name="colorWhite">#fff</color>
+
+</resources>
